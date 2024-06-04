@@ -14,4 +14,5 @@ def calculator():
     else:
         print("Invalid operator")
 
+
 calculator()
